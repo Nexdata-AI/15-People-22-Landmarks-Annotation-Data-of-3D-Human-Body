@@ -3,7 +3,7 @@
 ## Description
 15 People - 22 Landmarks Annotation Data of 3D Human Body. The dataset diversity includes multiple scenes, different ages, different costumes, different human body sitting postures. In terms of annotation, we annotate the 2D and 3D coordinates of the 22 landmarks of the human body, landmark attributes, the rectangular frame of the human body. The dataset can be used for tasks such as human body instance segmentation and human behavior recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1235?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1235?source=Github
 
 
 ## Data size
